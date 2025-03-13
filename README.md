@@ -1,4 +1,3 @@
-# Advanced-Power-BI-Project-1
 # Power BI Sales Analytics Dashboard
 
 ## Overview
