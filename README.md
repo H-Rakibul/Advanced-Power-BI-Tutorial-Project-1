@@ -16,13 +16,10 @@ This repository contains a Power BI project that provides comprehensive insights
 - **Data Sources**: The dataset includes sales transactions with details on returns, markets, and product categories.
 
 ## How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/H-Rakibul/powerbi-sales-dashboard.git
-   ```
+1. Clone the repository
 2. Open the Power BI file (`.pbix`) in Power BI Desktop.
 3. Explore the different visualizations and insights.
-4. Modify data sources if needed to analyze your own dataset.
+4. Modify data sources if needed to analyze your dataset.
 
 ## Use Cases
 - **Sales Performance Analysis**: Track overall sales and revenue trends.
